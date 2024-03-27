@@ -1,6 +1,6 @@
 # Large-scale-remote-sensing-image-segmentation
 大范围遥感影像分割demo
-
+动图时间较长，前期稍等几秒
 <p align="center">
-<img src=assets/samples_gs-008529_e-000010_b-000003.png />
+<img src=大范围遥感影像分割demo.gif />
 </p>
